@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Terraform and Ansible.
 - 💞️ I’m looking to collaborate on on on-premise and cloud infrastructure automation.
 - 📫 How to reach me https://www.linkedin.com/in/mario-castillo-ramirez/
+      https://www.youtube.com/c/MarioGCastillo
 
 <!---
 mariocr73/mariocr73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
